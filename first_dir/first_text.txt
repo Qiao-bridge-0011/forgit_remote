@@ -1,2 +1,2 @@
 modify 1;
-AUG is good;
+AUG is better than berry;
